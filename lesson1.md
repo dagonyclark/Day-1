@@ -92,15 +92,51 @@ Data Visualisation is a multidisciplinary domain in itself and borrows ideas fro
 
 The data analystics field offers a number of different roles which may expect slightly different skillsets with some overlap. Following illustrations by [Martin Theuwissen](https://www.kdnuggets.com/author/martijn-theuwissen) describe these different roles in an interesting manner.  
 
-#### The Data Scientist 
+#### Data Scientist 
 
 A data scientist masters a whole range of skills and talents going from being able to handle the raw data, analyzing that data with the help of statists, modelling for predictive analysis to sharing insights with his peers in a compelling way using visualisations.
 
+![Data Scientist](data-scientist.jpg)
 
 
+#### Data Analyst 
+
+Data Analyst carries a diverse skill set ranging from coding, data collection, statistics and communications skills. There is some overlap between the skills expected from data scientists and analysts as shown along side their personas. 
+
+![Data Analyst](data-analyst.jpg)
+
+#### Data Architect
+
+The data architect is responible for design and development of data management systems which combine, centralize, secure and maintain the data sources. With the rise of big data, the demand for data architects is rapidly increasing. 
+
+![Data Architect](data-architect.jpg)
+
+#### Data Engineer
+
+A data engineer is required to have expertise in software engineering with indepth knowledge of design and build type projects. A data engineer having a breadth of knowledge on different technologies and development platforms can easily adapt to new systems and processes. 
+
+![Data Engineer](data-engineer.jpg)
+
+#### Statistician 
+
+The primary responsibility of a statistician is getting useful insights from the data. In other words, a statistican turns data into information and knowledge which helps towards managerial decision making. A statistician's quantitative background helps greatly towards learning new platforms and technologies for data analysis. 
+
+![Statistician](statistician.jpg)
+
+#### Database Administrator (DBA)
+
+Data is being the "New Gold". A DBA ensures the avilability, integrity and security of data. DBA also makes sure that data backup and recovery processes are well defined and are in place. DBA would normally be expected to know the state of the art data management technologies. 
+
+![DBA](dba.jpg)
+
+#### Business Analyst
+
+A business analyst is not required to have in-depth knowledge of analytics related tools and technologies, instead he/she is required to have knowledge and experience of the processes related to problem domain. A Business analyst converts data insights into business insights and is also responsible for organisation-wide dissemination of these insights. You can think of a business analyst as a bridge between technical staff and operational staff. 
+
+![Business Analyst](business-analyst.jpg)
 
 
-
+> Exercise: Take 5 minutes to think about different data science roles shown above. In your opinion, which of these roles suits your aspirations and skills. Also think about the skills required by your dream role that you may not currently have. Discuss in pairs. 
 
 
 
