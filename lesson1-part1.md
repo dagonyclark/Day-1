@@ -63,6 +63,7 @@ Data cleaning/cleansing/preprocessing/wrangling is usually the most time consumi
 * Missing data 
 
 Data cleaning stage require development of a strategy on how to deal with these issues. Such a strategy may highly vary between different experiments according to the nature of analytical question.
+![Data Cleaning](clean.png)
 
 
 #### Data Exploration 
