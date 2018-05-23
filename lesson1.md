@@ -53,26 +53,45 @@ After asking the analytical question and identifying objectives for your analysi
 
 #### Data Cleaning 
 
-Data cleaning/cleansing/preprocessing/wrangling is usually the most time consuming stage within the data science process,  specially in the Big data domain. This stage may take upto 50-80% of a data scientist's time as there are a vast number of possible problems that make the "dirty" and unsuitable for analysis. Some of the problems you may find  
+Data cleaning/cleansing/preprocessing/wrangling is usually the most time consuming stage within the data science process,  specially in the Big data domain. This stage may take upto 50-80% of a data scientist's time as there are a vast number of possible problems that make the "dirty" and unsuitable for analysis. Some of the problems you may see in data are follows:
 
+* Inconsistencies in data 
+* Mis-spelled text data
+* Outliers 
+* Imbalanced data 
+* Invalid/outdated data 
+* Missing data 
 
-The reason why this is such a time consuming process is simply because there are so many possible scenarios that could necessitate cleaning. For instance, the data could also have inconsistencies within the same column, meaning that some rows could be labelled 0 or 1, and others could be labelled no or yes. The data types could also be inconsistent - some of the 0s might integers, whereas some of them could be strings. If we’re dealing with a categorical data type with multiple categories, some of the categories could be misspelled or have different cases, such as having categories for both male and Male. This is just a subset of examples where you can see inconsistencies, and it’s important to catch and fix them in this stage.
-
-One of the steps that is often forgotten in this stage, causing a lot of problems later on, is the presence of missing data. Missing data can throw a lot of errors in the model creation and training. One option is to either ignore the instances which have any missing values. Depending on your dataset, this could be unrealistic if you have a lot of missing data. Another common approach is to use something called average imputation, which replaces missing values with the average of all the other instances. This is not always recommended because it can reduce the variability of your data, but in some cases it makes sense.
+Data cleaning stage require development of a strategy on how to deal with these issues. Such a strategy may highly vary between different experiments according to the nature of analytical question.
 
 
 #### Data Exploration 
 
-Data exploration or *Exploratory Data Analysis* 
+Data exploration or *Exploratory Data Analysis* is the stage that follows data cleaning. Exploratory analysis help highlight the patterns, relations, variance and bias of available data. Exploratory analysis may involve following activities:
+
+* Selecting a subset of a bigger dataset for exploration
+* Calculating basic statistics i.e. mean, median and mode etc. 
+* Plotting histograms, scatter plots, distribution curves to identify trends in data
+* Other interactive visualisation with filtering to focus on a specific segment of data
+
+#### Feature Engineering
+
+A "Feature" is a measurable attribute of phenomenon being observed. Based on the nature of analystical question asked in the first step, a data scientist may have to engineer additional features not found in the original dataset. Feature engineering is the process of using expert knowledge to transform raw data into meaningful features that directly address the problem you are trying to solve i.e. creating a BMI (Body Mass Index) from the weights and heights of individuals in the dataset. This stage will directly influence the accuracy of the predictive model you construct in the next stage.
+
+#### Predictive Modelling 
+
+Modelling is the stage where you use mathematical and/or statistical approaches are used to answer your analytical question. Predictive Modelling refers to the process of using probabalistic statistical methods to "Predict" the outcome of an event e.g. based on employee  data, an organisation can develop a predictive model to identify employee attrition rate in order to develop better retention strategies. Chossing the right model could be a challenging decision as there is never a single right answer. Selecting a model involves balancing the performance and computational cost of the analysis process. Some recent approaches in predictive modelling e.g. deep learning, have been shown to offer vastly improved accuracy of results, but with a very high computational cost. 
+
+Modelling also involves evaluation of the results to identify the level of confidence that a data scientist can have on the outcome. There are a number of such evaluation techniques that can be used i.e. for PCC (percent correct classification), confusion matrix, ROC curves, MSE (Mean squared error) etc.
+
+#### Data Visualisation 
+
+Data Visualisation is a multidisciplinary domain in itself and borrows ideas from communication theory, psychology, statistics After deriving the required results from a statistical model, visualisations are normally used to summarise and present the findings of analysis process in a form which is easily understandable by non-technical decision makers. Data visualisation could be thought of as an evolution of visual communication techniques as it deals with "VISUAL" representation of data. A number of different data visualisation techniques ranging from bar graphs, line graphs, scatter plots to alluvial diagrams, spatio-temporal visualisations etc. 
 
 
----------------------------
-
-Very often, 
-
-If all the data necessary for the project is packaged and handed to you, you’ve won the lottery. More often than not, finding the right data takes both time and effort. If the data lives in databases, your job is relatively simple - you can query the relevant data using SQL queries, or manipulate it using a dataframe tool like Pandas. However, if your data doesn’t actually exist in a dataset, you’ll need to scrape it. Beautiful Soup is a popular library used to scrape web pages for data. If you’re working with a mobile app and want to track user engagement and interactions, there are countless tools that can be integrated within the app so that you can start getting valuable data from customers. Google Analytics, for example, allows you to define custom events within the app which can help you understand how your users behave and collect the corresponding data.
 
 
+-------------------------
 
 
 
