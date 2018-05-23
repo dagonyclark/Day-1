@@ -13,7 +13,7 @@ The second half of taught component will introduce students to key data types ge
 * Python data types
 
 
-## The Data Science Process - 15 minutes
+## The Data Science Process (20-25 min, explanations = 15 min, exercise = 5-10 min)
 
 A common question asked by most aspiring data scientists is "How to do data science ?" or "How do I get started with data science skills". Following steps describe different stages of the data science process as shown by Sudeep Agarwal [Understanding Data Science Life Cycle](http://sudeep.co/data-science/Understanding-the-Data-Science-Lifecycle)
 
@@ -87,8 +87,9 @@ Modelling also involves evaluation of the results to identify the level of confi
 #### Data Visualisation 
 
 Data Visualisation is a multidisciplinary domain in itself and borrows ideas from communication theory, psychology, statistics After deriving the required results from a statistical model, visualisations are normally used to summarise and present the findings of analysis process in a form which is easily understandable by non-technical decision makers. Data visualisation could be thought of as an evolution of visual communication techniques as it deals with "VISUAL" representation of data. A number of different data visualisation techniques ranging from bar graphs, line graphs, scatter plots to alluvial diagrams, spatio-temporal visualisations etc. 
+![Visualisation Examples](Data_Viz_Catalog.PNG)
 
-## Data Science Roles - 15 min
+## Data Science Roles (20 min including exercise)
 
 The data analystics field offers a number of different roles which may expect slightly different skillsets with some overlap. Following illustrations by [Martin Theuwissen](https://www.kdnuggets.com/author/martijn-theuwissen) describe these different roles in an interesting manner.  
 
@@ -136,7 +137,7 @@ A business analyst is not required to have in-depth knowledge of analytics relat
 ![Business Analyst](business-analyst.jpg)
 
 
-> Exercise: Take 5 minutes to think about different data science roles shown above. In your opinion, which of these roles suits your aspirations and skills. Also think about the skills required by your dream role that you may not currently have. Discuss in pairs. 
+> Exercise: Take 5 minutes to think about different data science roles shown above. In your opinion, which of these roles suits your aspirations and skills. Also think about the skills required by your dream role that you may not currently have. Discuss in pairs. Share your ideas with the instructor. 
 
 
 
