@@ -15,3 +15,4 @@ To-Do:
 * Improve the flow of information and check for disjoint bits and pieces of information. 
 * Tidy up up the repo. 
 
+* Consider using a simpler version of data science process e.g. [this](https://cdn.slidemodel.com/wp-content/uploads/7309-01-data-science-powerpointp-template-16x9-04-870x489.jpg) or [this](http://54.159.122.118/wp-content/uploads/2016/06/1_Activities_D.png). There are other simpler representations that can be considered
