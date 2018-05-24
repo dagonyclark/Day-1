@@ -63,7 +63,7 @@ Following section requires you to go through a number of practical exercises whi
 
 * Handling Text with "String" datatype
 [
-Click here to learn how to use Strings](labs/strings.ipynb)
+Click here to learn how to use Strings](labs/Strings.ipynb)
 
 
 * Declaring and Assigning Variables 
