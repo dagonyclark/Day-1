@@ -61,19 +61,16 @@ You dont have to learn every functional offering by Python for data analysis. A 
 
 Following section requires you to go through a number of practical exercises which would help you understand basic progaramming concepts in Python. 
 
-* Handling Text with "String" datatype
-[
-Click here to learn how to use Strings](labs/Strings.ipynb)
+* [Handling Text with "String" datatype](labs/Strings.ipynb)
+
+
+* [Dealing with numbers in Python](https://github.com/learn-co-curriculum/python-numbers-and-booleans)
 
 
 * Declaring and Assigning Variables 
 
  [Click here to access the hands-on exercises for variable declaration, assignment and re-assignment](https://github.com/learn-co-curriculum/python-variables-readme)
  
-
-* Dealing with numbers in Python 
-
-[Different datatypes used for handling numerical data within Python](https://github.com/learn-co-curriculum/python-numbers-and-booleans)
 
 * More Datatypes
 
