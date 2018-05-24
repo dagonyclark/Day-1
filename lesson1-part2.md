@@ -1,12 +1,15 @@
 ## Overview
 
-Following this introduction, part 2 of the lesson starts by providing a quick overview of major tools and technologies currently being employed by data scientists for data collection, exploration and analysis. Python would be identified as a tool of choice and students will be provided a strong rationale in support of using Python for its application throughout the whole data science process. The second half of taught component will introduce students to key data types generally used for collection and processing data within python, followed by coding exercises to pratice these datatypes for simple examples.
+Following this introduction, part 2 of the lesson starts by providing a quick overview of major tools and technologies currently being employed by data scientists for data collection, exploration and analysis. Python would be identified as a tool of choice and students will be provided a strong rationale in support of using Python for its application throughout the whole data science process. 
+
+The second half of taught component will introduce students to key data types generally used for collection and processing data within python, followed by coding exercises to pratice these datatypes for simple examples.
 
 ## Objectives
 
 * Introduction to Data Science Tools and Technologies
 * Introduction to Python Programming Language and rationale for adoption
-* Python variable handling and basic data types (Strings, Numbers and Boolean) with coding exercises
+* Python basic data types (Strings, Numbers and Boolean) with coding exercises
+* Python variable declaration, assignment and re-assignment
 
 ## Data Science Programming Environments
 
@@ -58,13 +61,15 @@ You dont have to learn every functional offering by Python for data analysis. A 
 
 Following section requires you to go through a number of practical exercises which would help you understand basic progaramming concepts in Python. 
 
+* Handling Text with "String" datatype
+[
+Click here to learn how to use Strings](labs/strings.ipynb)
+
+
 * Declaring and Assigning Variables 
 
  [Click here to access the hands-on exercises for variable declaration, assignment and re-assignment](https://github.com/learn-co-curriculum/python-variables-readme)
  
-* Handling Text with "String" datatype
-[
-Click here to learn how to use Strings](https://github.com/learn-co-curriculum/python-intro-to-strings)
 
 * Dealing with numbers in Python 
 
