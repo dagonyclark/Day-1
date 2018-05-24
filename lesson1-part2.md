@@ -2,6 +2,12 @@
 
 Following this introduction, part 2 of the lesson starts by providing a quick overview of major tools and technologies currently being employed by data scientists for data collection, exploration and analysis. Python would be identified as a tool of choice and students will be provided a strong rationale in support of using Python for its application throughout the whole data science process. The second half of taught component will introduce students to key data types generally used for collection and processing data within python, followed by coding exercises to pratice these datatypes for simple examples.
 
+## Objectives
+
+* Introduction to Data Science Tools and Technologies
+* Introduction to Python Programming Language and rationale for adoption
+* Python variable handling and basic data types (Strings, Numbers and Boolean) with coding exercises
+
 ## Data Science Programming Environments
 
 (Provide a comparison of major programming environments, consult [Quora](https://www.quora.com/Between-R-MATLAB-and-Python-which-one-is-better-for-artificial-intelligence-data-science-and-research) and This excellent review [paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwior87c-p3bAhUHIsAKHcUiAIwQFggzMAE&url=http%3A%2F%2Fwww.jds-online.com%2Ffile_download%2F612%2F150%25E5%25AE%258C%25E6%2588%2590V.pdf&usg=AOvVaw3Kzd_dYVl66naduCjZr0HR) )
