@@ -64,12 +64,13 @@ Following section requires you to go through a number of practical exercises whi
 * [Handling Text with "String" datatype](labs/Strings.ipynb)
 
 
-* [Dealing with numbers in Python](https://github.com/learn-co-curriculum/python-numbers-and-booleans)
+* [Dealing with numbers in Python](labs/numbers.ipynb)
 
 
-* Declaring and Assigning Variables 
+* [Declaring and Assigning Variables](labs/variables.ipynb)
 
- [Click here to access the hands-on exercises for variable declaration, assignment and re-assignment](https://github.com/learn-co-curriculum/python-variables-readme)
+
+* [User Input and Output](labs/io.ipynb)
  
 
 
