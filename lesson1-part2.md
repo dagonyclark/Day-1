@@ -70,8 +70,12 @@ Following section requires you to go through a number of practical exercises whi
 * [Declaring and Assigning Variables](labs/variables.ipynb)
 
 
-* [User Input and Output](labs/io.ipynb)
+* [User Input and Output](labs/IO.ipynb)
  
+ 
+ ## Conclusion and Summary
+ 
+In today's class, we looked at the data science lifecycle and different activities that data scientists engage themselves into while doing data analysis. We also looked at different roles within the data science domain and how these compare and contrast  with each other. This would have given you a basic ideas around the data science domain and now you can start thinking and planning around achieving these skills. 
 
 
 
