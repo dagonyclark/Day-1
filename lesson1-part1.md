@@ -77,6 +77,7 @@ Data exploration or *Exploratory Data Analysis* is the stage that follows data c
 #### Feature Engineering
 
 A "Feature" is a measurable attribute of phenomenon being observed. Based on the nature of analystical question asked in the first step, a data scientist may have to engineer additional features not found in the original dataset. Feature engineering is the process of using expert knowledge to transform raw data into meaningful features that directly address the problem you are trying to solve i.e. creating a BMI (Body Mass Index) from the weights and heights of individuals in the dataset. This stage will directly influence the accuracy of the predictive model you construct in the next stage.
+![Feat](feat.png)
 
 #### Predictive Modelling 
 
