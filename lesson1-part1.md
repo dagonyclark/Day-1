@@ -26,17 +26,17 @@ Before trying to solve a data related problem, it is imperative that a data scie
 e.g. Identifying number of new customers likely to join your company in next quarter. (Regression analysis)
 
 * **Which category?**
-e.g. Assignging a document to a given category for a document management system.  (Classification analysis)
+e.g. Assigning a document to a given category for a document management system.  (Classification analysis)
 
 * **Which group?**
 e.g. Creating a number of a groups (segments) of your customers based on their monetary value. (Clustering)
 
-* **Is this weird? (anomaly detection)**
+* **Is this weird?**
 e.g. Detecting suspicious activities of a customers by a credit card company to identify potential fraud. (Anomaly detection)
 
 * **Which option should be taken?**
 e.g. Recommending new products (e.g. movies/books/music by Amazon) to exisating customers (Recommendation systems)
-> Exercise: Think of at at least one such analytical question. Determine which of above category does your question belong to and how answering it correvtly may help achieves your analysis goal.
+> Exercise: Think of at at least one such analytical question. Determine which of above category does your question belong to and how answering it correctly may help you achieve your analysis goal.
 
 #### Data Collection
 
@@ -51,7 +51,7 @@ After asking the analytical question and identifying objectives for your analysi
 
 #### Data Cleaning 
 
-Data cleaning/cleansing/preprocessing/wrangling is usually the most time consuming stage within the data science process,  specially in the Big data domain. This stage may take upto 50-80% of a data scientist's time as there are a vast number of possible problems that make the "dirty" and unsuitable for analysis. Some of the problems you may see in data are follows:
+Data cleaning/cleansing/preprocessing/wrangling is usually the most time consuming stage within the data science process,  specially in the Big data domain. This stage may take upto 50-80% of a data scientist's time as there are a vast number of possible problems that make the data "dirty" and unsuitable for analysis. Some of the problems you may see in data are follows:
 
 * Inconsistencies in data 
 * Mis-spelled text data
@@ -60,7 +60,7 @@ Data cleaning/cleansing/preprocessing/wrangling is usually the most time consumi
 * Invalid/outdated data 
 * Missing data 
 
-Data cleaning stage require development of a strategy on how to deal with these issues. Such a strategy may highly vary between different experiments according to the nature of analytical question.
+Data cleaning stage require development of a strategy on how to deal with these issues. Such a strategy may highly vary between different analysis experiments according to the nature of analytical question.
 ![Data Cleaning](clean.png)
 
 
@@ -72,6 +72,7 @@ Data exploration or *Exploratory Data Analysis* is the stage that follows data c
 * Calculating basic statistics i.e. mean, median and mode etc. 
 * Plotting histograms, scatter plots, distribution curves to identify trends in data
 * Other interactive visualisation with filtering to focus on a specific segment of data
+![EDA](eda.png)
 
 #### Feature Engineering
 
