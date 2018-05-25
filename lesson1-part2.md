@@ -13,7 +13,7 @@ The second half of taught component will introduce students to key data types ge
 
 ## Data Science Programming Environments
 
-(Provide a comparison of major programming environments, consult [Quora](https://www.quora.com/Between-R-MATLAB-and-Python-which-one-is-better-for-artificial-intelligence-data-science-and-research) and This excellent review [paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwior87c-p3bAhUHIsAKHcUiAIwQFggzMAE&url=http%3A%2F%2Fwww.jds-online.com%2Ffile_download%2F612%2F150%25E5%25AE%258C%25E6%2588%2590V.pdf&usg=AOvVaw3Kzd_dYVl66naduCjZr0HR) )
+**Provide a comparison of major programming environments**, consult [Quora](https://www.quora.com/Between-R-MATLAB-and-Python-which-one-is-better-for-artificial-intelligence-data-science-and-research) and This excellent review [paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwior87c-p3bAhUHIsAKHcUiAIwQFggzMAE&url=http%3A%2F%2Fwww.jds-online.com%2Ffile_download%2F612%2F150%25E5%25AE%258C%25E6%2588%2590V.pdf&usg=AOvVaw3Kzd_dYVl66naduCjZr0HR) )
 
 * Python is a general purpose language that is easy and intuitive whereas finding packages in R can take a lot time if you are not familiar with it. In short, if you have less time to code Python would be a better option.
 
@@ -38,7 +38,7 @@ The second half of taught component will introduce students to key data types ge
 
 ## Python (Introduction 15 mins)
 
-(Provide a rationale for choosing Python over other languages) 
+**Provide a rationale for choosing Python over other languages** 
 
 Python is a general purpose programming language which is heavily being used by data scientists alongside R and MATLAB. Python is generally preferred as a tool of choice for data analysis for following reasons:
 
@@ -57,7 +57,7 @@ You dont have to learn every functional offering by Python for data analysis. A 
 
 
 
-## Python Basics (2 hours, including 10 minutes explanation for each exercise)
+## Python Basics (30 minutes for each exercise, including 10-15 minutes explanation for each exercise)
 
 Following section requires you to go through a number of practical exercises which would help you understand basic progaramming concepts in Python. 
 
@@ -72,9 +72,7 @@ Following section requires you to go through a number of practical exercises whi
  [Click here to access the hands-on exercises for variable declaration, assignment and re-assignment](https://github.com/learn-co-curriculum/python-variables-readme)
  
 
-* More Datatypes
 
-[This example will show a simple song analysis experiment using the concepts explained above and also introducing some new datatypes including lists and dictionaries](https://github.com/learn-co-curriculum/instant-datascience)
 
 
 
